@@ -10,7 +10,7 @@ import requests
 from rubpy import Client as RubikaClient
 
 # ========== تنظیمات ==========
-BALE_TOKEN = "توکن_ربات_خود_را_اینجا_بگذارید"  # توکنی که از @BotFather بله گرفتی
+BALE_TOKEN = "825541431:kzXxcpAdNTLBMMHTBScD5FOrHBFIoJc1oKY"
 BALE_API_URL = "https://tapi.bale.ai"
 DOWNLOAD_PATH = "/root/youtube_downloads"
 
