@@ -1,3 +1,4 @@
-yt-dlp>=2024.3.10
-rubpy>=1.0.0
-requests>=2.31.0
+asyncio
+requests
+telethon
+rubpy
